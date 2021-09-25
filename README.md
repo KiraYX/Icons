@@ -1,2 +1,3 @@
-# Icons
-Personal icons collection
+# ImageGo
+Personal image collection
+For Obsidian notes.
